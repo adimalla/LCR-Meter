@@ -1,14 +1,7 @@
 # LCR-Meter
 Handheld LCR Implementation using Tiva launchpad evaluation Board
 
-<!-- Auto Updating Copyright Script created with Rapid Purple Webmaster Tools (http://rapidpurple.com). -->
-<script language="JavaScript">
-<!--
-function y2k(number) { return (number < 1000) ? number + 1900 : number; }
-var today = new Date();
-var year = y2k(today.getYear());
-document.write('© '+year+' Aditya Mall and Dr. Jason Losh - All Rights Reserved');
-//-->
+Copyright (c) 2018, Aditya Mall, Mentor: Dr. Jason Losh.
 
 (Updating.....)
 
